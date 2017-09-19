@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EE 408 Tip Calculator</string>
+    <string name="app_name">My Tip Calculator</string>
 
     <string name="label_bill">Bill</string>
     <string name="label_tip">Tip %</string>

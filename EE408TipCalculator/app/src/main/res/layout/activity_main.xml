@@ -118,13 +118,13 @@
         android:layout_marginRight="20dp"
         android:padding="10dp"/>
 
-    <Button
+    <!--<Button
         android:id="@+id/button_calculate"
         style="@style/ButtonStyle"
         android:layout_below="@+id/tip_result"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
         android:onClick="calculate"
-        android:text="@string/button_calculate" />
+        android:text="@string/button_calculate" />-->
 
 </RelativeLayout>

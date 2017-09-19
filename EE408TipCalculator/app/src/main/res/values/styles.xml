@@ -24,7 +24,7 @@
     </style>
 
     <style name="InputStyle" parent="TextStyle">
-        <item name="android:background">@color/darkBlue</item>
+        <item name="android:background">white</item>
     </style>
 
     <style name="OutputStyle" parent="TextStyle">
